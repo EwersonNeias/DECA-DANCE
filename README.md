@@ -1,7 +1,7 @@
 # DECA-DANCE
 • Uma descrição em uma linha do funcionamento do jogo;
 
-• Definição do seu gênero (se é de ação, ou RPG, por exemplo);
+• Metroidvania: ação e aventura;
 
 • Suas mecânicas principais (um conjunto de regras);
 

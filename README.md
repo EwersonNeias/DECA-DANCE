@@ -16,6 +16,6 @@
 
 • Roteiristas, Programadores, Art-designers, Sound-designers;
 
-• Uma previsão de cronograma e orçamento total: R$5.434,00​;
+• Demo: final de Novembro de 2023, Decatron finalizado: Dezembro de 2024, orçamento total: R$5.434,00​;
 
 • Principalmente na Erradicação da Pobreza, mas também abrange Redução da Desigualdade e e a Promoção de Cidades e Comunidades Sustentáveis.

@@ -6,7 +6,9 @@
 
 • Movimentação do personagem anda pra esqueda e pra direita, pulo, barra de estâmina pro dash, agachar, ataque basíco, ataque pesado, aprimoramento braço e perna robótica, coletáveis, acessar áreas com item específico;
 
-•  DeCA se instalou no meio do nada para fazer sua empresa, onde em volta dela, por causa dos trabalhadores fosse construído uma cidade, a cidade foi dividida em duas, a cidade de cima, a parte rica da cidade e a cidade de baixo o lado pobre da cidade. A Empresa não ligava nada para cidade de baixo, então faziam experimentos na região enquanto as pessoas sumiam, as autoridades nada faziam a respeito da situação, até que um dia, Barto, mais conhecido por lá como Cyber Boy decidiu lutar pela sua cidade contra a empresa cibernética que tanto conspira e destrói a civilização.​
+•  A DeCA é uma empresa de tecnologia que se estabeleceu inicialmente em uma área vazia na região de São Paulo. Com o tempo, à medida que evoluía e criava oportunidades, casas e lojas começaram a surgir ao seu redor, formando, eventualmente, uma cidade com o mesmo nome da empresa. No entanto, com o crescimento, surgiram divisões e corrupção, alimentadas pela competição por cargos e poder dentro da cidade. Como resultado, a cidade se dividiu em duas partes distintas.
+
+Uma parte é caracterizada por uma elite poderosa, que exibe de forma proeminente sua riqueza e influência. A outra parte é composta por indivíduos frequentemente considerados dispensáveis, que lutam diariamente para garantir suas necessidades básicas. Esse segmento marginalizado da população enfrenta problemas persistentes, como a poluição causada por resíduos tóxicos, questões relacionadas a drogas e a presença de gangues que buscam explorar os vulneráveis.
 
 • A implementação das ODS estabelecidas pela ONU no roteiro de Decatron;
 

@@ -16,7 +16,7 @@ Uma parte é caracterizada por uma elite poderosa, que exibe de forma proeminent
 
 • O público alvo são homens e mulheres entre 16 à 21 anos com preferência no consumo de jogos eletrônicos, classificação indicativa 16 anos;
 
-• Roteiristas, Programadores, Art-designers, Sound-designers;
+• Roteiristas: Bruno, Programadores: Bruno e Ewerson, Art-designers: Leonardo Vinicius e João Vitor, Sound-designers: Leonardo Matioli;
 
 • Demo: final de Novembro de 2023, Decatron finalizado: Dezembro de 2024, orçamento total: R$5.434,00​;
 

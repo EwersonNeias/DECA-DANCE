@@ -1,4 +1,5 @@
-# DECA-DANCE
+# Decatron
+
 • Uma descrição em uma linha do funcionamento do jogo;
 
 • Metroidvania: ação e aventura;

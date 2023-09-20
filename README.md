@@ -1,12 +1,12 @@
 # Decatron
 
-• Uma descrição em uma linha do funcionamento do jogo;
+• Em Decatron o jogador deverá explorar ao maximo das regiões do mapa para aprimorar suas habilidades e equipamentos a fim de impedir que Deca piore as condições de quem já tem muito, os defensores da empresa não irão pegar leve;
 
 • Metroidvania: ação e aventura;
 
-• Suas mecânicas principais (um conjunto de regras);
+• Movimentação do per;
 
-• Deca foi uma cidade criada em ao redor da maior empresa de tecnologia que esse mundo já viu, um paraíso de hardwares e softwares, se você quer um olho com uma função nova ou um braço robótico não há lugar melhor, pelo menos se você tiver dinheiro suficiente para isso, já que Deca só te permite viver sendo rico, pessoas normais são tratadas como lixo assim como o mundo ao redor da cidade, pessoas são apenas bucha de canhão na linha de frente de uma produção em massa, ninguém liga se você desaparecer hoje, mas o mundo aqui na parte baixa da cidade é assim mesmo, se seu chip neural falha e fritar seu cérebro ou se você tem uma overdose de alegria seu corpo vai ficar no mesmo local até alguém sentir seu cheiro incômodo, eu achava isso normal, afinal cresci neste local, porém recentemente trabalhadores da deca que vivem na parte baixa começaram a desaparecer, o ar que antes já não era limpo ficou pior, e enquanto pessoas morrem de fome ou intoxicada eles planejam algo novo, e eu não posso deixar isso acontecer;
+• Deca foi uma cidade criada em ao redor da maior empresa de tecnologia que esse mundo já viu, um paraíso de hardwares e softwares, se você quer um olho com uma função nova ou um braço robótico não há lugar melhor, já que Deca só te permite viver sendo rico, pessoas normais são tratadas como lixo assim como o mundo ao redor da cidade, pessoas são apenas bucha de canhão na linha de frente de uma produção em massa, ninguém liga se você desaparecer hoje, mas o mundo aqui na parte baixa da cidade é assim mesmo, se seu chip neural falha e fritar seu cérebro ou se você tem uma overdose de alegria seu corpo vai ficar no mesmo local até alguém sentir seu cheiro incômodo. Barto achava isso normal, afinal cresceu neste local, porém recentemente trabalhadores da deca que vivem na parte baixa começaram a desaparecer, o ar que antes já não era limpo ficou pior, e enquanto pessoas morrem de fome ou intoxicada eles planejam algo novo, e ele não posso deixar isso acontecer;
 
 • A implementação das ODS estabelecidas pela ONU no roteiro de Decatron;
 

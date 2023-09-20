@@ -6,7 +6,7 @@
 
 • Movimentação do personagem anda pra esqueda e pra direita, pulo, barra de estâmina pro dash, agachar, ataque basíco, ataque pesado, aprimoramento braço e perna robótica, coletáveis, acessar áreas com item específico;
 
-•  DeCA se instalou no meio do nada para fazer sua empresa, onde em volta dela por causa dos trabalhadores construísse uma cidade, a cidade foi dividida em duas, a cidade de cima, a parte rica da cidade e a cidade de baixo o lado pobre da cidade, a DeCA não ligava nada para cidade de baixo, então faziam experimentos na região e as pessoas sumiam, as autoridades nada faziam a respeito da situação, até que um dia, Barto, mais conhecido por lá como Cyber Boy decidiu lutar pela sua cidade contra a empresa cibernética que tanto conspira e destrói a civilização.​
+•  DeCA se instalou no meio do nada para fazer sua empresa, onde em volta dela, por causa dos trabalhadores fosse construído uma cidade, a cidade foi dividida em duas, a cidade de cima, a parte rica da cidade e a cidade de baixo o lado pobre da cidade. A Empresa não ligava nada para cidade de baixo, então faziam experimentos na região enquanto as pessoas sumiam, as autoridades nada faziam a respeito da situação, até que um dia, Barto, mais conhecido por lá como Cyber Boy decidiu lutar pela sua cidade contra a empresa cibernética que tanto conspira e destrói a civilização.​
 
 • A implementação das ODS estabelecidas pela ONU no roteiro de Decatron;
 
